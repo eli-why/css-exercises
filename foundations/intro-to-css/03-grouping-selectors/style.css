@@ -14,11 +14,3 @@
 #btn2 {
     background-color: yellow;
 }
-
-- **The first element**: a black background and white text
-- **The second element**: a yellow background
-- **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback
-
-
-    <button class="button" id="btn1">Click Me!</button>
-    <button class="button" id="btn2">No, Click Me!</button>
